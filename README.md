@@ -241,37 +241,12 @@ http://127.0.0.1:5000
 
 ## 📸 Screenshots
 
-### Home Page
-
-*(Add screenshot here)*
 
 ```
-screenshots/homepage.png
+Emotions.jpeg
 ```
 
-### Live Emotion Detection
 
-*(Add screenshot here)*
-
-```
-screenshots/live_detection.png
-```
-
-### Happy Detection
-
-*(Add screenshot here)*
-
-```
-screenshots/happy.png
-```
-
-### Sad Detection
-
-*(Add screenshot here)*
-
-```
-screenshots/sad.png
-```
 
 ---
 
