@@ -243,7 +243,7 @@ http://127.0.0.1:5000
 
 ### Emotion Detection Output
 
-![Emotion Detection Output](Emotions.jpeg)
+![Emotion Detection Output](screenshots/Emotions.jpeg)
 
 
 
