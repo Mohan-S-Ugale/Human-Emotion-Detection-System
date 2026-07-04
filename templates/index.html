@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Emotion Detection System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>😊 Emotion Detection System</h1>
+
+    <div class="card">
+
+        <!-- 🔴 LIVE Badge -->
+        <div class="live-badge">
+            <span class="dot"></span> LIVE
+        </div>
+
+        <!-- Video -->
+        <img src="{{ url_for('video_feed') }}">
+
+        <!-- Status -->
+        <div class="status">
+            Live Emotion Detection Running...
+        </div>
+
+    </div>
+
+    <p class="footer">Powered by Deep Learning • Flask • OpenCV</p>
+
+</div>
+
+</body>
+</html>
