@@ -75,6 +75,8 @@ The application detects faces using **OpenCV Haar Cascade**, predicts emotions u
 ```
 Human-Emotion-Detection-System/
 │
+├── Documentation/
+│   ├── Emotion Detection System Project Report.pdf
 ├── dataset/
 │
 ├── model/
