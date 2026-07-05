@@ -213,7 +213,7 @@ Dataset Classes:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Human-Emotion-Detection-System.git
+git clone https://github.com/Mohan-S-Ugale/Human-Emotion-Detection-System.git
 ```
 
 ### Open Project
